@@ -7,4 +7,5 @@ Uno de mis proyectos favoritos es Nomadx, una red social para viajeros donde se 
 Me defino por mi perseverancia ante los desafíos, mi capacidad autodidacta y mi gusto por el trabajo en equipo. En mi día a día aplico una metodología basada en dividir grandes problemas en pequeñas metas alcanzables, lo que me permite avanzar con constancia y claridad.
 
 Mi objetivo es seguir participando en proyectos variados, enfrentarme a nuevos retos y continuar desarrollando mi potencial como desarrollador. 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5cedcba4-1728-436c-98e2-7139f5178c27" /> https://www.linkedin.com/in/lucas-sánchez-magán-415a89364
+
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5cedcba4-1728-436c-98e2-7139f5178c27" /> https://www.linkedin.com/in/lucas-sánchez-magán-415a89364
