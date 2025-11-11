@@ -8,4 +8,4 @@ Me defino por mi perseverancia ante los desafíos, mi capacidad autodidacta y mi
 
 Mi objetivo es seguir participando en proyectos variados, enfrentarme a nuevos retos y continuar desarrollando mi potencial como desarrollador. 
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5cedcba4-1728-436c-98e2-7139f5178c27" /> https://www.linkedin.com/in/lucas-sánchez-magán-415a89364
+<a href="https://www.linkedin.com/in/lucas-sánchez-magán" target="_blank"><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/5cedcba4-1728-436c-98e2-7139f5178c27" /></a>
